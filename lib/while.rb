@@ -9,6 +9,7 @@ def using_while
 	  puts "your levitation_force is now #{levitation_force}"
 	end
 	
+  puts "Outside of loop your levitation_force is now #{levitation_force}"
 	
 end
 
